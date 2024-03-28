@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: white;
+    background-color: lightblue;
 }
 
 img {
@@ -53,10 +53,6 @@ img {
 
 .btn:hover {
     opacity: 0.9;
-}
-
-.btn:focus {
-    outline: none;
 }
 
 .btn:active {
